@@ -5,6 +5,7 @@ body {
     align-items: center;
     justify-content: center;
     background: radial-gradient(circle at center, #f0f4c3, #b2dfdb, #80cbc4, #00897b);
+    
 }
 
 .outer {
